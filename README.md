@@ -8,16 +8,19 @@ Time spent: Approximately **15** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+I successfully completed the following **required** functionalities🚀:
 
 * [ ] The introduction section explains the background of the company and how many games remain unfunded.
 * [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
+I added the following tweaks to my webpage cause I love to go above and beyond😉:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Created a dropdown menu with a "scroll to" button to enable smooth scrolling to different sections of the page (Intro, Stats, & Games). 😎
+* [ ] Implemented a fixed header to keep the navigation easily accessible during scrolling.🫡
+* [ ] Developed a search bar that allows users to filter the displayed games in real-time as they type, and show an error message when no games match the search queries.🤓
+* [ ] Adjusted several default designs of the webpage to make it more visually appealing.😃 
 
 ## Video Walkthrough
 
@@ -38,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Eyimofe's World]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
