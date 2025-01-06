@@ -11,16 +11,29 @@
     <div class="header">
         <img id="tentacles" src="assets/tentacles.png">
         <h1 class="header-text">Sea Monster Crowdfunding</h1>
+
+        <div class="menu">
+            <button id="scrollButton">Scroll To</button>
+            <ul id="scrollMenu" class="menu-options">
+                <li><a href="#center-heading">Intro</a></li>
+                <li><a href="#stats-header">Stats</a></li>
+                <li><a href="#games-header">Games</a></li>
+            </ul>
+        </div>
+
     </div>
 
     <!-- background info about company -->
-    <h2>Welcome to Sea Monster!</h2>
+    <h2 id="center-heading">Welcome to Sea Monster!</h2>
     <div id="description-container">
         <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
     </div>
 
     <!-- top games & other interesting stats -->
-    <h2>Stats</h2>
+    <div class="white-box">
+        <h2 id="stats-header">STATS📝</h2>
+    </div>
+    
     <div class="stats-container">
         <div class="stats-card">
             <h3>Individual Contributions</h3>
@@ -48,13 +61,30 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
-    <p>Check out each of our games below!</p>
-    <div id="button-container">
-        <button id="unfunded-btn">Show Unfunded Only</button>
-        <button id="funded-btn">Show Funded Only</button>
-        <button id="all-btn">Show All Games</button>
+    <div class="white-box">
+        <h2 id="games-header">OUR GAMES🎮</h2>
     </div>
+
+    <!-- <div id="games-description-container">
+        <h3>Check out each of our games below!</h3>
+    </div> -->
+    
+    <div id="button-container">
+        <h3 style="color: white;">OPTIONS:
+            <button id="unfunded-btn">Show Unfunded Only</button>
+            <button id="funded-btn">Show Funded Only</button>
+            <button id="all-btn">Show All Games</button>
+        </h3>
+    </div>
+
+    <div>
+        <input type="text" id="searchBar" placeholder="Search for a game..." />
+            <div id="error-message" style="color: rgb(255, 87, 87); display: none; font-size: 40px; text-align: center;">
+                Unfortunately, this game is NOT on the list 😓<br>
+                Try another!
+            </div>
+    </div>
+    
     <div id="games-container">
 
     </div>
