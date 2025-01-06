@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Eyimofe Ajagunna**
+Submitted by: **Eyimofe Ajagunna✨**
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -15,7 +15,9 @@ I successfully completed the following **required** functionalities🚀:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-I added the following tweaks to my webpage cause I love to go above and beyond😉:
+## My little adds
+
+I added the following tweaks to the page cause I love to go above and beyond😉:
 
 * [ ] Created a dropdown menu with a "scroll to" button to enable smooth scrolling to different sections of the page (Intro, Stats, & Games). 😎
 * [ ] Implemented a fixed header to keep the navigation easily accessible during scrolling.🫡
@@ -24,7 +26,7 @@ I added the following tweaks to my webpage cause I love to go above and beyond�
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+A quick video walkthrough of da implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -36,7 +38,6 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
 Describe any challenges encountered while building the app.
 
 ## License
