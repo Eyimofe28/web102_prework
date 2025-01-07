@@ -20,9 +20,9 @@ I successfully completed the following **required** functionalities🚀:
 I added the following tweaks to the page cause I love to go above and beyond😉:
 
 * [ ] Created a dropdown menu with a "scroll to" button to enable smooth scrolling to different sections of the page (Intro, Stats, & Games). 😎
-* [ ] Implemented a fixed header to keep the navigation easily accessible during scrolling.🫡
-* [ ] Developed a search bar that allows users to filter the displayed games in real-time as they type, and show an error message when no games match the search queries.🤓
-* [ ] Adjusted several default designs of the webpage to make it more visually appealing.😃 
+* [ ] Implemented a fixed header to keep the navigation easily accessible during scrolling. 🫡
+* [ ] Developed a search bar that allows users to filter the displayed games in real-time as they type, and show an error message when no games match the search queries. 🤓
+* [ ] Adjusted several default designs of the webpage to make it more visually appealing. 😃 
 
 ## Video Walkthrough
 
