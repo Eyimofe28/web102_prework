@@ -28,14 +28,10 @@ I added the following tweaks to the page cause I love to go above and beyond😉
 
 A quick video walkthrough of da implemented features:
 
-<img src='https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1" target="_blank">Watch Video 👀</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LOOM  
 
 ## Notes
 Describe any challenges encountered while building the app.
