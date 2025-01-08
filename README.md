@@ -15,7 +15,7 @@ I successfully completed the following **required** functionalities🚀:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-## My little adds
+## Additional Features
 
 I added the following tweaks to the page cause I love to go above and beyond😉:
 
@@ -26,13 +26,15 @@ I added the following tweaks to the page cause I love to go above and beyond😉
 
 ## Video Walkthrough
 
-A quick video walkthrough of da implemented features:  <a href="https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1" target="_blank">Click Me!</a>
+A quick video walkthrough of da implemented features:  <a href="https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1">Click Me!</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LOOM  
 
 ## Notes
-Describe any challenges encountered while building the app.
+I encountered a few challenges while working on this project🤧...
+* [ ] Trying to use a CSS function for two different functionalities { the mistakes I made along the way turned out to be even better than my vision so yay :) }
+* [ ] Making the webpage responsive across different devices { was unable to make it responsive on smaller devices but I ain't giving up! }
 
 ## License
 
