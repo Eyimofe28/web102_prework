@@ -26,9 +26,7 @@ I added the following tweaks to the page cause I love to go above and beyond😉
 
 ## Video Walkthrough
 
-A quick video walkthrough of da implemented features:
-
-<a href="https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1" target="_blank">Watch Video 👀</a>
+A quick video walkthrough of da implemented features: <a href="https://www.loom.com/share/68d2af2b1b6d4e89878d377c8dea6a42?sid=1212af7e-8392-47e9-86bc-9b8f42d99cf1" target="_blank">Video👻</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LOOM  
