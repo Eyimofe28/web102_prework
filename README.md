@@ -26,7 +26,7 @@ I added the following tweaks to the page cause I love to go above and beyond😉
 
 ## Video Walkthrough
 
-A quick video walkthrough of da implemented features:  <a href="https://i.imgur.com/nicEYjU.gif" target="_blank">Click Me!</a> 
+A quick video walkthrough of da implemented features:  [Click Me!](https://i.imgur.com/nicEYjU.gif)
 
 ## Notes
 I encountered a few challenges while working on this project🤧...
